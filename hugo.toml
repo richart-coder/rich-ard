@@ -1,0 +1,5 @@
+
+theme = "PaperMod"
+baseURL = "/"
+languageCode = "zh-tw"
+title = "Rich-ard Blog"
