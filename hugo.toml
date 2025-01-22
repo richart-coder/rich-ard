@@ -3,3 +3,17 @@ theme = "PaperMod"
 baseURL = "/"
 languageCode = "zh-tw"
 title = "Rich-ard Blog"
+
+# 添加選單配置
+[menu]
+  [[menu.main]]
+    identifier = "javascript"
+    name = "JavaScript"
+    url = "/javascript/"   
+    weight = 30
+    
+  [[menu.main]]
+    identifier = "python"
+    name = "Python"
+    url = "/python/"      
+    weight = 40
