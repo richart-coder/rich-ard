@@ -2,7 +2,7 @@
 title: "JavaScript 裝飾器：程式碼的優雅增強"
 date: 2024-01-25
 draft: false
-url: "/javascript/callback"
+url: "/javascript/decorator"
 ---
 
 前言:
