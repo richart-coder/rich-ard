@@ -25,9 +25,9 @@ class Manager(object):
   def filter(self, predicateFn):
     newTable = []
     for row in self.table
-        if(predicateFn(row)) {
-          newTable.append(row)
-        }
+        if predicateFn(row):
+            newTable.append(row)
+
     return newTable`
 
 class Todo {
