@@ -16,17 +16,17 @@ lambda 在數學上有一個符號 λ，用於表示線性代數中的特徵值�
 ```python
 class Manager(object):
 
-  __init__(self):
+  def __init__(self):
     self.table = []
 
-  def create(self, *, kwargs):
+  def create(self, *, **kwargs):
     self.table({**kwargs})
 
   def filter(self, predicateFn):
     newTable = []
     for row in self.table
         if predicateFn(row):
-            newTable.append(row)
+          newTable.append(row)
 
     return newTable`
 
