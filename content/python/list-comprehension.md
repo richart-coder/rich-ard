@@ -18,7 +18,6 @@ list comprehension 非常有意思，把一個可能需要寫好幾行的程式�
 3. logic(可省略)
 
 ```python
-  # here: 傳統方式
   data = ["James", "John", "David", "Jojo", "Amy"]
 
   # here: 傳統方式(一致的資料流向由上往下)
