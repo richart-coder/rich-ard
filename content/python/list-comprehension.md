@@ -2,7 +2,7 @@
 title: "list comprehension 不一定真的那麽 comprehension"
 date: 2024-01-27
 draft: false
-url: "/python/lambda"
+url: "/python/list-comprehension"
 ---
 
 ### 前言:
