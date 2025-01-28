@@ -59,12 +59,11 @@ def useState(initial_value):
 
       if value != new_value:
           hook.values[0] = new_value
-          # 自己更新自己
-          current_index = 0
+          render()
 
   return [value, setState]
 
-def Count():
+def Counter():
   [ count, setCount ] = useState(0)
 ```
 
