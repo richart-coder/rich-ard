@@ -53,11 +53,6 @@ class open:
 ### 2. 例外的測試(exception handling)
 
 ```python
-   try:
-      1 / 0
-   except ZeroDivisionError as e:
-      print(e.message)
-
 
   class assertRaises(exception):
     def __init__(self, exception):
