@@ -38,7 +38,7 @@ class Hero:
         if self.state == "fighting":
             if self.weapon is None:
                 raise ValueError("No weapon!")
-            # here: enemy 從哪裡來，設計起來就很麻煩，難道要加到 hero 欄位?
+            # here: enemy 從哪裡來，設計起來就很麻煩，難道要加到 Hero 欄位?
             self.attack(enemy, self.weapon)
 
         elif self.state == "sleeping":
