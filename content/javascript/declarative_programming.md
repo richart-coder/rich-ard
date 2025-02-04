@@ -1,6 +1,6 @@
 ---
 title: "宣告式編程：概念與實踐"
-date: 2024-01-29
+date: 2024-02-04
 draft: false
 url: "/python/declarative-programming"
 ---
