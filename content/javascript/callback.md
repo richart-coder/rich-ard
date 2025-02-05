@@ -21,7 +21,7 @@ function Counter() {
 	};
 
   const clickHandler = () => {
-    // here:`你定義的 -> 何時該更新狀態
+    // here: 你定義的 -> 何時該更新狀態
      setCount((prevCount) => prevCount + 1);
   }
   // useEffect: react 開發團隊定義 -> 何時調用你代碼
