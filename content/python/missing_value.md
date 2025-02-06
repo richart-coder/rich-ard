@@ -1,5 +1,5 @@
 ---
-title: "值缺失盡量少用 None"
+title: "為什麼值缺失盡量少用 None"
 date: 2024-02-06
 draft: false
 url: "/python/missing-value"
