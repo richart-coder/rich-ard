@@ -40,7 +40,6 @@ Python 使用不同的操作碼（OpCode）來處理不同範疇的變數：
 #### 1. Local 變數（較快）：
 
 - LOAD_FAST：本地變數表中載入變數
-- LOAD_CONST: 本地變數表中不會重新分配的變數(常數)
 - STORE_FAST：變數存入本地變數表
 
 #### 2. Global 變數（較慢）：
