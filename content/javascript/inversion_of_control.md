@@ -42,7 +42,10 @@ class DIContainer(service) {
 
 const inject = DIContainer(ProductService)
 // 一個 service 對應到一個 server
-pipe(inject, server)(req, res)
+pipe(inject)(server)(req, res)
+// decorator 提供更優雅的方式(目前提案在第三階段)
+@inject
+function(req, res, server) {}
 ```
 
 如果檔案目錄有設計好，上述我基本上不用改，遵循介面原則:
