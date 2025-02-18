@@ -45,7 +45,7 @@ const inject = DIContainer(ProductService)
 pipe(inject)(server)(req, res)
 // decorator 提供更優雅的方式(目前提案在第三階段)
 @inject
-function(req, res, server) {}
+function(req, res, service) {}
 ```
 
 如果檔案目錄有設計好，上述我基本上不用改，遵循介面原則:
