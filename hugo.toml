@@ -17,3 +17,9 @@ title = "Rich-ard Blog"
     name = "Python"
     url = "/python/"      
     weight = 40
+
+   [[menu.main]]
+    identifier = "vue"
+    name = "Vue"
+    url = "/vue/"      
+    weight = 50
