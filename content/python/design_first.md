@@ -23,11 +23,11 @@ url: "/python/design_first"
 
 ```python
 events = {}
-
+_config = {"once": False}
 
 def addEventListener(type, listener, config=None):
     if config is None:
-        config = {"once": False}
+        config = _config
 
     if type not in events:
         events[type] = []
