@@ -23,3 +23,9 @@ title = "Rich-ard Blog"
     name = "Vue"
     url = "/vue/"      
     weight = 50
+
+    [[menu.main]]
+    identifier = "other"
+    name = "Other"
+    url = "/other/"      
+    weight = 60
