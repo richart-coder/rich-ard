@@ -2,7 +2,7 @@
 title: "MCP:web 開發的影響"
 date: 2024-03-05
 draft: false
-url: "/javascript/MCP"
+url: "/other/MCP"
 ---
 
 ## 前言:
