@@ -1,6 +1,6 @@
 ---
 title: "JavaScript 裝飾器：程式碼的優雅增強"
-date: 2024-01-25
+date: 2025-01-25
 draft: false
 url: "/javascript/decorator"
 ---

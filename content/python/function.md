@@ -1,6 +1,6 @@
 ---
 title: "function 是編程的核心"
-date: 2024-01-28
+date: 2025-01-28
 draft: false
 url: "/python/function"
 ---

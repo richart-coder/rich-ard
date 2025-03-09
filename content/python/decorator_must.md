@@ -1,6 +1,6 @@
 ---
 title: "裝飾器改變了思考模式"
-date: 2024-02-21
+date: 2025-02-21
 draft: false
 url: "/python/decorator_must"
 ---

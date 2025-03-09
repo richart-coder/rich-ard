@@ -1,6 +1,6 @@
 ---
 title: "Symbol：獨特在於身份而非描述"
-date: 2024-03-05
+date: 2025-03-05
 draft: false
 url: "/javascript/symbol"
 ---

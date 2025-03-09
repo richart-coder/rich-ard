@@ -1,6 +1,6 @@
 ---
 title: "模式匹配改變了思考模式"
-date: 2024-02-01
+date: 2025-02-01
 draft: false
 url: "/python/pattern-matching"
 ---

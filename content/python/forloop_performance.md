@@ -1,6 +1,6 @@
 ---
 title: "為什麼 forloop 寫在 local 效能較好"
-date: 2024-02-12
+date: 2025-02-12
 draft: false
 url: "/python/forloop_performance"
 ---

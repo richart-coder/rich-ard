@@ -1,6 +1,6 @@
 ---
 title: "lambda 使程式碼更簡潔"
-date: 2024-01-26
+date: 2025-01-26
 draft: false
 url: "/python/lambda"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "為什麼大多數物件都不建議動態擴展"
-date: 2024-01-31
+date: 2025-01-31
 draft: false
 url: "/python/dict"
 ---

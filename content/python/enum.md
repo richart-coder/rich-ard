@@ -1,6 +1,6 @@
 ---
 title: "enum type 的核心價值"
-date: 2024-02-02
+date: 2025-02-02
 draft: false
 url: "/python/enum"
 ---

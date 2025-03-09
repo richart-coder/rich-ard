@@ -1,6 +1,6 @@
 ---
 title: "context manager 簡化了流程的管理"
-date: 2024-01-29
+date: 2025-01-29
 draft: false
 url: "/python/context-manager"
 ---

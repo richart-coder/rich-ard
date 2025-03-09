@@ -1,6 +1,6 @@
 ---
 title: "函數執行在哪裡？"
-date: 2024-01-22
+date: 2025-01-22
 draft: false
 url: "/javascript/callback"
 ---

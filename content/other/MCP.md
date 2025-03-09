@@ -1,6 +1,6 @@
 ---
 title: "MCP:web 開發的影響"
-date: 2024-03-05
+date: 2025-03-05
 draft: false
 url: "/other/MCP"
 ---

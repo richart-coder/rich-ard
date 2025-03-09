@@ -1,6 +1,6 @@
 ---
 title: "為什麼我們需要 dunder repr"
-date: 2024-01-30
+date: 2025-01-30
 draft: false
 url: "/python/repr"
 ---

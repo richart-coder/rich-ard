@@ -1,6 +1,6 @@
 ---
 title: "依賴注射模組"
-date: 2024-02-18
+date: 2025-02-18
 draft: false
 url: "/javascript/inversion_of_control"
 ---

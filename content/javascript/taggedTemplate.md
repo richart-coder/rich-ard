@@ -1,6 +1,6 @@
 ---
 title: "Tagged Template: 最被低估的優雅設計"
-date: 2024-03-07
+date: 2025-03-07
 draft: false
 url: "/javascript/taggedTemplate"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "程式設計優先"
-date: 2024-02-24
+date: 2025-02-24
 draft: false
 url: "/python/design_first"
 ---

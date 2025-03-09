@@ -1,6 +1,6 @@
 ---
 title: "為什麼使用 Walrus Operator 需要正確的方式"
-date: 2024-02-05
+date: 2025-02-05
 draft: false
 url: "/python/walrus-operator"
 ---

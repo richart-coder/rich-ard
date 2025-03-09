@@ -1,6 +1,6 @@
 ---
 title: "硬編碼的藝術：何時選擇直接編碼而非配置驅動"
-date: 2024-02-26
+date: 2025-02-26
 draft: false
 url: "/python/harded-code"
 ---

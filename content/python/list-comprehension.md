@@ -1,6 +1,6 @@
 ---
 title: "list comprehension 不一定真的那麽 comprehension"
-date: 2024-01-27
+date: 2025-01-27
 draft: false
 url: "/python/list-comprehension"
 ---

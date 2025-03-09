@@ -24,8 +24,14 @@ title = "Rich-ard Blog"
     url = "/vue/"      
     weight = 50
 
+   [[menu.main]]
+    identifier = "react"
+    name = "React"
+    url = "/react/"      
+    weight = 60
+
     [[menu.main]]
     identifier = "other"
     name = "Other"
     url = "/other/"      
-    weight = 60
+    weight = 70

@@ -1,6 +1,6 @@
 ---
 title: "外面的世界很精彩"
-date: 2024-02-03
+date: 2025-02-03
 draft: false
 url: "/python/scope"
 ---
