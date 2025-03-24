@@ -28,7 +28,7 @@ const SearchContainer = () => {
 	return (
 		<div>
 			<SearchInput value={query} onChange={(e) => setQuery(e.target.value)} />
-			<MemoizedSearchResult query={query} />
+			<SearchResult query={query} />
 		</div>
 	);
 };
@@ -44,7 +44,7 @@ const SearchContainer = () => {
 	return (
 		<div>
 			<SearchInput value={query} onChange={(e) => setQuery(e.target.value)} />
-			<SearchResult query={deferredQuery} />
+			<MemoizedSearchResult query={deferredQuery} />
 		</div>
 	);
 };
