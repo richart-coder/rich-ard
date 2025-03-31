@@ -35,3 +35,9 @@ title = "Rich-ard Blog"
     name = "Other"
     url = "/other/"      
     weight = 70
+
+    [[menu.main]]
+    identifier = "reflection"
+    name = "Reflection"
+    url = "/reflection/"      
+    weight = 80
