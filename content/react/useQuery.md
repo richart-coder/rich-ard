@@ -59,9 +59,9 @@ try {
 
 ## 簡潔定義
 
-isPending: 關注緩存的數據，不關注查詢
-isLoading: 關注查詢也關注緩存
-isFetching: 只關注查詢
+- isPending: 關注緩存的數據，不關注查詢
+- isLoading: 關注查詢也關注緩存
+- isFetching: 只關注查詢
 
 ## 詳細說明
 
@@ -76,7 +76,8 @@ isFetching: 只關注查詢
 - 必須同時滿足「沒有緩存數據」和「正在首次請求中」兩個條件
 - 只在第一次請求時觸發，後續重新獲取數據時不會設為 true
 - 可以視為 isPending && isFetching && 首次請求
-  特別注意：在 enabled: false 的手動控制模式下，isLoading 只會在手動調用 refetch() 且無緩存數據時才會變為 true
+
+**特別注意：在 enabled: false 的手動控制模式下，isLoading 只會在手動調用 refetch() 且無緩存數據時才會變為 true**
 
 ### isFetching: 表示任何網絡請求正在進行中，無論是首次還是重新獲取。
 
