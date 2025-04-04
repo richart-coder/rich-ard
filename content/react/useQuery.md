@@ -36,9 +36,8 @@ try {
 	isFetching = true;
 
 	// 只有在緩存中沒有數據且是首次請求時，才設置 isLoading = true
-	if (todos === undefined && isFirstRequest) {
+	if (todos === undefined) {
 		isLoading = true;
-		afterFirstFetch();
 	}
 
 	const data = await queryFn(queryContext);
@@ -59,7 +58,10 @@ try {
 
 ## 簡潔定義
 
-- isPending: 關注緩存的數據，不關注查詢
+**緩存 -> 資料**
+**查詢 -> 操作**
+
+- isPending: 關注緩存，不關注查詢
 - isLoading: 關注查詢也關注緩存
 - isFetching: 只關注查詢
 
